@@ -1,2 +1,2 @@
 # DSCourse
-Repository for submitting assignments.
+Repository for submitting assignments and Project.
